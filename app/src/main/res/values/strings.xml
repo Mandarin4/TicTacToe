@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="avtivity_main_title">Крестики Нолики</string>
+    <string name="avtivity_main_play_rules">Правила</string>
+    <string name="avtivity_main_play_button">Играть</string>
+
+
+    <string name="avtivity_players_setup_title">Введите свои имена</string>
+    <string name="player1_tv">Игрок 1</string>
+    <string name="player2_tv">Игрок 2</string>
+    <string name="submit_button">Начать игру</string>
+    <string name="players_hint">Введите свое имя</string>
+
+
+    <string name="play_again_btn">Играть заново</string>
+    <string name="home_btn">Закрыть</string>
+
+    <string name="activity_rules_title">Правила игры</string>
+    <string name="activity_rules_txt">Игроки по очереди ставят на свободные клетки поля 3×3 знаки (один всегда крестики, другой всегда нолики). Первый, выстроивший в ряд 3 своих фигуры по вертикали, горизонтали или диагонали, выигрывает. Первый ход делает игрок, ставящий крестики.
+Обычно по завершении партии выигравшая сторона зачёркивает чертой свои три знака (нолика или крестика), составляющих сплошной ряд.</string>
+
+
+</resources>
